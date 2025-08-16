@@ -19,16 +19,12 @@ We’ll be pitting **fully connected deep neural networks (DNNs)** -- multi-laye
 
 Time for the deep dive.
 
----
-
 ## Tools & Libraries Used
 
 - **Google Colab (with GPU runtime)** - cloud-based environment for writing and running the notebook with hardware acceleration
 - **Python 3.11.13** - base language powering the project
 - **Keras** - for loading CIFAR-10, building DNN and CNN models, training, and evaluation
 
----
-
 ## Acknowledgments
 
-This notebook builds on a project from Professor Tao Li’s Machine Learning with Python course at the Leavey School of Business at Santa Clara University. Many thanks to Professor Li for the lectures that spark further expoloration.
+This notebook builds on a project from Professor Tao Li’s Machine Learning with Python course at the Leavey School of Business at Santa Clara University. Many thanks to Professor Li for the lectures that spark further exploration.
