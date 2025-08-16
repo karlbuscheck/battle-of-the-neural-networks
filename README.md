@@ -1,5 +1,7 @@
 # Battle of the Neural Networks: DNNs vs. CNNs in Image Classification
 
+[![Open In Colab](https://colab.research.google.com/drive/1dMzwZSTSasuxYhhGs8hB2t4QGoFG71Au)
+
 ## Project Overview
 There's something electric about training a neural network, watching the epochs pour down your screen, tracking the accuracies and losses in real-time. That's exactly what we'll be doing in this notebook. 
 
