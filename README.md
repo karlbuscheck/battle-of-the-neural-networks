@@ -1,6 +1,6 @@
 # Battle of the Neural Networks: DNNs vs. CNNs in Image Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dMzwZSTSasuxYhhGs8hB2t4QGoFG71Au)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1izWoEF4Unq-jofvzONU28mnjRHS2j9wy)
 
 *Click the badge above to explore the full notebook and run the code.*
 
