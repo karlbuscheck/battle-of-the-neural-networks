@@ -5,7 +5,7 @@
 *Click the badge above to explore the full notebook and run the code.*
 
 ## Project Overview
-There's something electric about training a neural network, watching the epochs pour down your screen, tracking the accuracies and losses in real-time. That's exactly what we'll be doing in this notebook. 
+There's something electric about training a neural network, watching the epochs pour down your screen, tracking the accuracies and losses in real-time. That's exactly what we'll be doing in this project. 
 
 We’ll be pitting **fully connected deep neural networks (DNNs)** -- multi-layer perceptrons that flatten images -- against **convolutional neural networks (CNNs)** that preserve spatial structure for an image classification task using the popular [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html), which consists of 60,000 32x32 color images split into 10 classes:
 
