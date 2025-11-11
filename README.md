@@ -1,6 +1,6 @@
 # Battle of the Neural Networks: DNNs vs. CNNs in Image Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1izWoEF4Unq-jofvzONU28mnjRHS2j9wy)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karlbuscheck/battle-of-the-neural-networks/blob/main/battle_of_the_neural_networks.ipynb)
 
 *Click the badge above to explore the full notebook and run the code.*
 
@@ -22,6 +22,9 @@ We’ll be pitting **fully connected deep neural networks (DNNs)** -- multi-laye
 **Spoiler alert**: The CNNs win -- after all, image classification is exactly the sort of task they excel at. But along the way, we'll find out *why* this is the case.
 
 Time for the deep dive.
+
+## ⚠️ IMPORTANT NOTE ON METHODOLOGY ⚠️
+This notebook contains an uncorrected methodological flaw (Data leakage) and is included for demonstration purposes only. The model accuracies reported within are **BIASED** and likely inflated due to repeated evaluation of the test set.
 
 ## Tools & Libraries Used
 
